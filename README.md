@@ -45,11 +45,11 @@ This is planned work inside the Cpanel web hosting management tool.
 
 ## Contributing:
 
-Join Our Exciting Project: Client Portal App
+**Join Our Exciting Project: Client Portal App**
 
 We're building a revolutionary Client Portal App that's going to change the way businesses interact with their clients. Our app is designed to provide a seamless experience for clients to manage their interactions with our organization, and we're looking for talented individuals to contributions to this project! If you're interested in contributing, please fork this repository and submit a pull request.
 
-### We're Looking For Regular Contributors:
+**We're Looking For Regular Contributors:**
 
 - Passionate developers with expertise in front-end (HTML/CSS/JavaScript), back-end (Node.js/Express.js), or full-stack development
 - Experienced designers with expertise in UI/UX design
