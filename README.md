@@ -43,6 +43,11 @@ This is planned work inside the Cpanel web hosting management tool.
 - Streamline payment processing through integrated payment gateway
 - Ensure secure and private storage of user data through decentralized user storage
 
+## Examples of Projects Similar to Our Idea
+
+- **Suitedash:** https://suitedash.com/
+- **Copilot** https://www.copilot.app/
+
 ## Contributing:
 
 **Join Our Exciting Project: Client Portal App**
